@@ -11,7 +11,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 
 ### Cambios 
-#### Visuales
+
 ![PersonajesCrud](https://user-images.githubusercontent.com/92740455/166072152-0615e14c-cc95-4b28-8e5a-e59161b04a9c.jpg)
 
 
